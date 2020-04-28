@@ -1,5 +1,5 @@
-Admin Category Hide
-###################
+Admin Category Hide Plugin
+##########################
 
 Hides all categories of articles to which the writer does not have the required level.
 
