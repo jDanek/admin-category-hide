@@ -1,7 +1,6 @@
 {
     "name": "Admin Category Hide",
-    "description": "Hides all categories of articles to which the writer does not have the required level.
-",
+    "description": "Hides all categories of articles to which the writer does not have the required level.",
     "version": "8.0",
     "api": "^8.0",
     "url": "https://jdanek.eu/",
