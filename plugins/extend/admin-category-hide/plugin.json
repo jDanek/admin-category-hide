@@ -7,6 +7,6 @@
     "url": "https://jdanek.eu/",
     "class": "AdminCategoryHidePlugin",
     "events.admin": [
-        ["admin.page.select", "$this::overrideSelect"]
+        {"event": "admin.page.select", "method": "overrideSelect"}
     ]
 }
