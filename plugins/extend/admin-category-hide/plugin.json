@@ -1,4 +1,5 @@
 {
+    "$schema": "../../../system/schema/extend.json",
     "name": "Admin Category Hide",
     "description": "Hides all categories of articles to which the writer does not have the required level.",
     "version": "8.0",
